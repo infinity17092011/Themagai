@@ -1,0 +1,14 @@
+{
+  "name": "nexaai",
+  "version": "1.0.0",
+  "description": "NexaAI - Multiple AI models under one interface",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
